@@ -1,0 +1,25 @@
+{
+  products:
+  [
+  {"id":1,"name":"Gery","category":"Maroon"},
+  {"id":2,"name":"Brannon","category":"Aquamarine"},
+  {"id":3,"name":"Hyacinthia","category":"Orange"},
+  {"id":4,"name":"Moises","category":"Turquoise"},
+  {"id":5,"name":"Caryn","category":"Blue"},
+  {"id":6,"name":"Jessa","category":"Mauv"},
+  {"id":7,"name":"Gaynor","category":"Puce"},
+  {"id":8,"name":"Mira","category":"Teal"},
+  {"id":9,"name":"Walsh","category":"Aquamarine"},
+  {"id":10,"name":"Reeba","category":"Turquoise"},
+  {"id":11,"name":"Lyell","category":"Red"},
+  {"id":12,"name":"Freddy","category":"Maroon"},
+  {"id":13,"name":"Bradford","category":"Pink"},
+  {"id":14,"name":"Carleton","category":"Puce"},
+  {"id":15,"name":"Cortie","category":"Turquoise"},
+  {"id":16,"name":"Hyatt","category":"Maroon"},
+  {"id":17,"name":"Franky","category":"Red"},
+  {"id":18,"name":"Reggie","category":"Pink"},
+  {"id":19,"name":"Tobey","category":"Indigo"},
+  {"id":20,"name":"Lanna","category":"Aquamarine"}
+  ]
+}
